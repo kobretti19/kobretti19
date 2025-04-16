@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">A passionate frontend developer from Macedonia</h3>
+<h3 align="center">I'm a full-stack developer from Macedonia who loves creating clean, efficient, and user-friendly web experiences.</h3>
 
 - 🔭 I’m currently working on **nodejs, EXPRESSJS, NEXTJS, ReactJS,TypeScript**
 
