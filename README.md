@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A passionate frontend developer from Macedonia</h3>
 
-- 🔭 I’m currently working on **nodejs**
+- 🔭 I’m currently working on **nodejs, EXPRESSJS, NEXTJS, ReactJS,TypeScript**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://martinpetroski.com/</h3>
 <p align="left">
 </p>
 
